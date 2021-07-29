@@ -1,0 +1,14 @@
+**/node_modules/
+**/.git
+**/README.md
+**/LICENSE
+**/.vscode
+**/npm-debug.log
+**/logs/
+**/.env*
+**/*.yaml
+**/data/
+**/k8s/
+**/*.csv
+**/.editorconfig
+**/.husky
